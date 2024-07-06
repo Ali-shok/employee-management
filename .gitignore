@@ -1,0 +1,9 @@
+node_modules/
+.env
+coverage/
+yarn.lock
+package-lock.json
+
+# Common development artifacts
+*.log
+README.md
