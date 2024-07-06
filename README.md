@@ -165,5 +165,3 @@ If you encounter issues with the MySQL connection, ensure that:
 
 This project is licensed under the MIT License.
 ```
-
-This `README.md` provides a comprehensive guide on setting up and running the microservices, including the necessary database setup and environment configurations. Adjust the details such as the `DB_PASSWORD` in the `.env` files as per your actual database credentials.
